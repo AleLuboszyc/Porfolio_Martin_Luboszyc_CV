@@ -61,7 +61,7 @@ export const personalInfo = [
   {
     id: 1,
     title: 'Nombre : ',
-    description: 'Martin Alejandro',
+    description: 'Martin',
   },
 
   {
