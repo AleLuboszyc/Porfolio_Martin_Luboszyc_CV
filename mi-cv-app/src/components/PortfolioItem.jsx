@@ -1,6 +1,9 @@
+/* eslint-disable react/prop-types */
+// eslint-disable-next-line no-unused-vars
 import React, { useState } from 'react';
 import Close from "../assets/close.svg";
 
+// eslint-disable-next-line react/prop-types
 const PortfolioItem = ({ img, title, details }) => {
     const [modal, setModal] = useState(false);
 

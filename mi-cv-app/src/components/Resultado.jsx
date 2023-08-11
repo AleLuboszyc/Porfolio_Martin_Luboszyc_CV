@@ -1,6 +1,8 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react';
 import parse from 'html-react-parser';
 
+// eslint-disable-next-line react/prop-types
 const Resultado = ({icon, year, title, desc}) => {
   return (
     <div className="resume__item">

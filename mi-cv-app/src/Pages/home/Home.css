@@ -13,7 +13,7 @@
     z-index: 1;
 }
 
-.home__data {r(--first-color);
+.home__data { 
     max-width: 600px;
     margin-inline: auto;
     padding: 20px;
